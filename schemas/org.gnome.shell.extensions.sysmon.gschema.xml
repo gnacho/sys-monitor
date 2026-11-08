@@ -30,6 +30,10 @@
       <default>true</default>
       <summary>Show network speeds in the panel</summary>
     </key>
+    <key name="show-gpu" type="b">
+      <default>true</default>
+      <summary>Deprecated alias kept for in-session upgrades (use popup-show-gpu)</summary>
+    </key>
     <key name="popup-show-cpu" type="b">
       <default>true</default>
       <summary>Show the CPU graph in the popup</summary>
